@@ -1,0 +1,13 @@
+.app-background-container {
+  max-width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.app-background-image {
+  width: 40%;
+  height: auto;
+  object-fit: cover;
+}
